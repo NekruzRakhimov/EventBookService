@@ -38,7 +38,9 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'rest_framework_simplejwt',
-    'users'
+    'users',
+    'events',
+    'bookings'
 
 ]
 
